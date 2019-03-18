@@ -2,9 +2,7 @@ Python是一种计算机程序设计语言。是一种动态的、完全面向对象的脚本语言，交互式编程
 
 Python的创始人为荷兰人吉多·范·罗苏姆 （Guido van Rossum）
 
-题目
-以下属于Python的优点的是：ABC
-A.简洁性 B.易读性 C 可扩展性 D.速度快
+
 
 由于Python语言的简洁性、易读性以及可扩展性，在国外用Python做科学计算的研究机构日益增多，一些知名大学已经采用Python来教授程序设计课程。例如卡耐基梅隆大学的编程基础、麻省理工学院的计算机科学及编程导论就使用Python语言讲授。众多开源的科学计算软件包都提供了Python的调用接口，例如著名的计算机视觉库OpenCV、三维可视化库VTK、医学图像处理库ITK。而Python专用的科学计算扩展库就更多了，例如如下3个十分经典的科学计算扩展库：NumPy、SciPy和matplotlib，它们分别为Python提供了快速数组处理、数值运算以及绘图功能。因此Python语言及其众多的扩展库所构成的开发环境十分适合工程技术、科研人员处理实验数据、制作图表，甚至开发科学计算应用程序。2018年3月，该语言作者在邮件列表上宣布Python 2.7将于2020年1月1日终止支持。用户如果想要在这个日期之后继续得到与Python 2.7有关的支持，则需要付费给商业供应商。
 
@@ -23,15 +21,7 @@ WEB开发——最火的Python web框架Django, 支持异步高并发的Tornado框架，短小精悍的fl
 科学运算—— 你知道么,97年开始，NASA就在大量使用Python在进行各种复杂的科学运算，随着NumPy, SciPy, Matplotlib, Enthought librarys等众多程序库的开发，使的Python越来越适合于做科学计算、绘制高质量的2D和3D图像。和科学计算领域最流行的商业软件Matlab相比，Python是一门通用的程序设计语言，比Matlab所采用的脚本语言的应用范围更广泛
 游戏开发——在网络游戏开发中Python也有很多应用。相比Lua or C++,Python 比 Lua 有更高阶的抽象能力，可以用更少的代码描述游戏业务逻辑，与 Lua 相比，Python 更适合作为一种 Host 语言，即程序的入口点是在 Python 那一端会比较好，然后用 C/C++ 在非常必要的时候写一些扩展。Python 非常适合编写 1 万行以上的项目，而且能够很好地把网游项目的规模控制在 10 万行代码以内。另外据我所知，知名的游戏<文明>就是用Python写的
 
-有监督学习
-朴素贝叶斯、决策树与随机森林、回归、支持向量机（svm）、k近邻
 
-无监督学习
-聚类
-
-增强学习
-
-神经网络 知识图谱
 
 anaconda是一个开源的python发行版本。它使得我们可以很容易的在linux，windows，macOS上实现数据分析和机器学习，它有以下几个点让它成为单机器上开发测试训练的工业标准：
 1.有超过1500+的数据科学包
@@ -54,13 +44,22 @@ IndentationError: unindent does not match any outer indentation level
 tab和空格混用
 一定不要用关键字定义变量
 
-题目:
-以下哪些类型是可变的 A
-A.List B String C Tuple D Number
 
-题目:
-以下属于有监督学习的是：ABC
-A.朴素贝叶斯 B 回归 C 决策树 D 聚类
+
+有监督学习
+朴素贝叶斯、决策树与随机森林、回归、支持向量机（svm）、k近邻
+
+无监督学习
+聚类
+
+半监督学习
+
+增强学习
+
+神经网络 知识图谱
+
+
+
 
 
 #!/usr/bin/python是告诉操作系统执行这个脚本的时候，调用/usr/bin下的python解释器。
@@ -95,3 +94,16 @@ https://blog.csdn.net/u012162613/article/details/48323777
 知识图谱-反欺诈系统
 Kaggle介绍 数据分析平台-悬赏
 https://www.kaggle.com/c/two-sigma-financial-news
+
+
+
+
+以下属于Python的优点的是：ABC
+A.简洁性 B.易读性 C 可扩展性 D.速度快
+以下哪些类型是可变的 A
+A.List B String C Tuple D Number
+以下属于有监督学习的是：ABC
+A.朴素贝叶斯 B 回归 C 决策树 D 聚类
+
+
+
