@@ -89,7 +89,10 @@ https://www.cnblogs.com/princessd8251/articles/7569541.html
 https://www.cnblogs.com/yejintianming00/p/9338728.html
 多项式 高斯 伯努利模型
 https://blog.csdn.net/u012162613/article/details/48323777
-
+情感分析
+https://blog.csdn.net/linxid/article/details/82709430
+深度学习vs机器学习
+https://baijiahao.baidu.com/s?id=1595509949786067084&wfr=spider&for=pc
 题外篇
 知识图谱-反欺诈系统
 Kaggle介绍 数据分析平台-悬赏
