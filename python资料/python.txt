@@ -97,6 +97,8 @@ https://baijiahao.baidu.com/s?id=1595509949786067084&wfr=spider&for=pc
 知识图谱-反欺诈系统
 Kaggle介绍 数据分析平台-悬赏
 https://www.kaggle.com/c/two-sigma-financial-news
+神经网络
+https://www.cnblogs.com/alexcai/p/5506806.html
 
 
 
